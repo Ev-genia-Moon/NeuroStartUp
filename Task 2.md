@@ -27,4 +27,4 @@
 
 ### Решение
 
-[]()
+[Слияние веток](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/new-text/README.md)
