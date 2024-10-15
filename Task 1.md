@@ -24,3 +24,6 @@
 
 <b>В качестве результата пришлите ссылку на ваш репозиторий на GitHub.</b>
 
+### Решение
+
+[Публикация репозитория](https://github.com/Ev-genia-Moon/NeuroStartUp/blob/main/README.md)
